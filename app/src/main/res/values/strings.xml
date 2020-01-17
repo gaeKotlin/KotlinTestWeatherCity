@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinTestWeatherCity</string>
+    <string-array name="cityList">
+        <item>Бишкек</item>
+    </string-array>
+    <string-array name="typeList">
+        <item>малый</item>
+        <item>средний</item>
+        <item>большой</item>
+    </string-array>
+</resources>
